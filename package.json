@@ -1,6 +1,6 @@
 {
   "name": "npm-upgrade-genie",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "AI-powered assistant to analyze and upgrade npm dependencies safely",
   "main": "dist/index.js",
   "bin": {
